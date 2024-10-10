@@ -22,7 +22,7 @@
             "precio_mxn": "$60.00",
             "precio_eur": "€3.00",
             "precio_cad": "$4.80",
-            "imagen": "../img/P002.jpg"
+            "imagen": "img/P002.jpg"
         },
         {
             "id": "P003",
@@ -34,7 +34,7 @@
             "precio_mxn": "$30.00",
             "precio_eur": "€1.50",
             "precio_cad": "$2.40",
-            "imagen": "../img/P003.jpg"
+            "imagen": "img/P003.jpg"
         },
         {
             "id": "P004",
@@ -46,7 +46,7 @@
             "precio_mxn": "$40.00",
             "precio_eur": "€2.00",
             "precio_cad": "$3.20",
-            "imagen": "../img/P004.jpg"
+            "imagen": "img/P004.jpg"
         },
         {
             "id": "P005",
