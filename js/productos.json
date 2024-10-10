@@ -22,7 +22,7 @@
             "precio_mxn": "$60.00",
             "precio_eur": "€3.00",
             "precio_cad": "$4.80",
-            "imagen": "img/P002.jpg"
+            "imagen": "/img/P002.jpg"
         },
         {
             "id": "P003",
