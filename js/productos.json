@@ -22,7 +22,7 @@
             "precio_mxn": "$60.00",
             "precio_eur": "€3.00",
             "precio_cad": "$4.80",
-            "imagen": "/img/P002.jpg"
+            "imagen": "img/P002.jpg"
         },
         {
             "id": "P003",
@@ -58,7 +58,7 @@
             "precio_mxn": "$70.00",
             "precio_eur": "€3.50",
             "precio_cad": "$5.60",
-            "imagen": "../img/P005.jpg"
+            "imagen": "img/P005.jpg"
         },
         {
             "id": "P006",
@@ -70,7 +70,7 @@
             "precio_mxn": "$60.00",
             "precio_eur": "€3.00",
             "precio_cad": "$4.80",
-            "imagen": "../img/P006.jpg"
+            "imagen": "img/P006.jpg"
         },
         {
             "id": "P007",
@@ -82,7 +82,7 @@
             "precio_mxn": "$50.00",
             "precio_eur": "€2.50",
             "precio_cad": "$4.00",
-            "imagen": "../img/P007.jpg"
+            "imagen": "img/P007.jpg"
         },
         {
             "id": "P008",
@@ -94,7 +94,7 @@
             "precio_mxn": "$40.00",
             "precio_eur": "€2.00",
             "precio_cad": "$3.20",
-            "imagen": "../img/P008.jpg"
+            "imagen": "img/P008.jpg"
         },
         {
             "id": "P009",
@@ -106,7 +106,7 @@
             "precio_mxn": "$50.00",
             "precio_eur": "€2.50",
             "precio_cad": "$4.00",
-            "imagen": "../img/P009.jpg"
+            "imagen": "img/P009.jpg"
         },
         {
             "id": "P010",
@@ -118,7 +118,7 @@
             "precio_mxn": "$30.00",
             "precio_eur": "€1.50",
             "precio_cad": "$2.40",
-            "imagen": "../img/P010.jpg"
+            "imagen": "img/P010.jpg"
         },
         {
             "id": "P011",
@@ -130,7 +130,7 @@
             "precio_mxn": "$240.00",
             "precio_eur": "€12.00",
             "precio_cad": "$19.20",
-            "imagen": "../img/P011.jpg"
+            "imagen": "img/P011.jpg"
         },
         {
             "id": "P012",
@@ -142,7 +142,7 @@
             "precio_mxn": "$80.00",
             "precio_eur": "€4.00",
             "precio_cad": "$6.40",
-            "imagen": "../img/P012.jpg"
+            "imagen": "img/P012.jpg"
         },
         {
             "id": "P013",
@@ -154,7 +154,7 @@
             "precio_mxn": "$70.00",
             "precio_eur": "€3.50",
             "precio_cad": "$5.60",
-            "imagen": "../img/P013.jpg"
+            "imagen": "img/P013.jpg"
         },
         {
             "id": "P014",
@@ -166,7 +166,7 @@
             "precio_mxn": "$50.00",
             "precio_eur": "€2.50",
             "precio_cad": "$4.00",
-            "imagen": "../img/P014.jpg"
+            "imagen": "img/P014.jpg"
         },
         {
             "id": "P015",
@@ -178,7 +178,7 @@
             "precio_mxn": "$30.00",
             "precio_eur": "€1.50",
             "precio_cad": "$2.40",
-            "imagen": "../img/P015.jpg"
+            "imagen": "img/P015.jpg"
         },
         {
             "id": "P016",
@@ -190,7 +190,7 @@
             "precio_mxn": "$60.00",
             "precio_eur": "€3.00",
             "precio_cad": "$4.80",
-            "imagen": "../img/P016.jpg"
+            "imagen": "img/P016.jpg"
         },
         {
             "id": "P017",
@@ -202,7 +202,7 @@
             "precio_mxn": "$30.00",
             "precio_eur": "€1.50",
             "precio_cad": "$2.40",
-            "imagen": "../img/P017.jpg"
+            "imagen": "img/P017.jpg"
         },
         {
             "id": "P018",
@@ -214,7 +214,7 @@
             "precio_mxn": "$50.00",
             "precio_eur": "€2.50",
             "precio_cad": "$4.00",
-            "imagen": "../img/P018.jpg"
+            "imagen": "img/P018.jpg"
         },
         {
             "id": "P019",
@@ -226,7 +226,7 @@
             "precio_mxn": "$100.00",
             "precio_eur": "€5.00",
             "precio_cad": "$8.00",
-            "imagen": "../img/P019.jpg"
+            "imagen": "img/P019.jpg"
         },
         {
             "id": "P020",
@@ -238,7 +238,7 @@
             "precio_mxn": "$80.00",
             "precio_eur": "€4.00",
             "precio_cad": "$6.40",
-            "imagen": "../img/P020.jpg"
+            "imagen": "img/P020.jpg"
         },
         {
             "id": "P021",
@@ -250,7 +250,7 @@
             "precio_mxn": "$590.00",
             "precio_eur": "€29.50",
             "precio_cad": "$47.20",
-            "imagen": "../img/P021.jpg"
+            "imagen": "img/P021.jpg"
         },
         {
             "id": "P022",
@@ -262,7 +262,7 @@
             "precio_mxn": "$170.00",
             "precio_eur": "€8.50",
             "precio_cad": "$13.60",
-            "imagen": "../img/P022.jpg"
+            "imagen": "img/P022.jpg"
         },
         {
             "id": "P023",
@@ -274,7 +274,7 @@
             "precio_mxn": "$120.00",
             "precio_eur": "€6.00",
             "precio_cad": "$9.60",
-            "imagen": "../img/P023.jpg"
+            "imagen": "img/P023.jpg"
         },
         {
             "id": "P024",
@@ -286,7 +286,7 @@
             "precio_mxn": "$120.00",
             "precio_eur": "€6.00",
             "precio_cad": "$9.60",
-            "imagen": "../img/P024.jpg"
+            "imagen": "img/P024.jpg"
         },
         {
             "id": "P025",
@@ -298,7 +298,7 @@
             "precio_mxn": "$330.00",
             "precio_eur": "€16.50",
             "precio_cad": "$26.40",
-            "imagen": "../img/P025.jpg"
+            "imagen": "img/P025.jpg"
         },
         {
             "id": "P026",
@@ -310,7 +310,7 @@
             "precio_mxn": "$50.00",
             "precio_eur": "€2.50",
             "precio_cad": "$4.00",
-            "imagen": "../img/P026.jpg"
+            "imagen": "img/P026.jpg"
         },
         {
             "id": "P027",
@@ -322,7 +322,7 @@
             "precio_mxn": "$40.00",
             "precio_eur": "€2.00",
             "precio_cad": "$3.20",
-            "imagen": "../img/P027.jpg"
+            "imagen": "img/P027.jpg"
         },
         {
             "id": "P028",
@@ -334,7 +334,7 @@
             "precio_mxn": "$60.00",
             "precio_eur": "€3.00",
             "precio_cad": "$4.80",
-            "imagen": "../img/P028.jpg"
+            "imagen": "img/P028.jpg"
         },
         {
             "id": "P029",
@@ -346,7 +346,7 @@
             "precio_mxn": "$50.00",
             "precio_eur": "€2.50",
             "precio_cad": "$4.00",
-            "imagen": "../img/P029.jpg"
+            "imagen": "img/P029.jpg"
         },
         {
             "id": "P030",
@@ -358,7 +358,7 @@
             "precio_mxn": "$110.00",
             "precio_eur": "€5.50",
             "precio_cad": "$8.80",
-            "imagen": "../img/P030.jpg"
+            "imagen": "img/P030.jpg"
         },
         {
             "id": "P031",
@@ -370,7 +370,7 @@
             "precio_mxn": "$90.00",
             "precio_eur": "€4.50",
             "precio_cad": "$7.20",
-            "imagen": "../img/P031.jpg"
+            "imagen": "img/P031.jpg"
         },
         {
             "id": "P032",
@@ -382,7 +382,7 @@
             "precio_mxn": "$30.00",
             "precio_eur": "€1.50",
             "precio_cad": "$2.40",
-            "imagen": "../img/P032.jpg"
+            "imagen": "img/P032.jpg"
         },
         {
             "id": "P033",
@@ -394,7 +394,7 @@
             "precio_mxn": "$100.00",
             "precio_eur": "€5.00",
             "precio_cad": "$8.00",
-            "imagen": "../img/P033.jpg"
+            "imagen": "img/P033.jpg"
         },
         {
             "id": "P034",
@@ -406,7 +406,7 @@
             "precio_mxn": "$100.00",
             "precio_eur": "€5.00",
             "precio_cad": "$8.00",
-            "imagen": "../img/P034.jpg"
+            "imagen": "img/P034.jpg"
         },
         {
             "id": "P035",
@@ -418,7 +418,7 @@
             "precio_mxn": "$80.00",
             "precio_eur": "€4.00",
             "precio_cad": "$6.40",
-            "imagen": "../img/P035.jpg"
+            "imagen": "img/P035.jpg"
         },
         {
             "id": "P036",
@@ -430,7 +430,7 @@
             "precio_mxn": "$50.00",
             "precio_eur": "€2.50",
             "precio_cad": "$4.00",
-            "imagen": "../img/P036.jpg"
+            "imagen": "img/P036.jpg"
         },
         {
             "id": "P037",
@@ -442,7 +442,7 @@
             "precio_mxn": "$70.00",
             "precio_eur": "€3.50",
             "precio_cad": "$5.60",
-            "imagen": "../img/P037.jpg"
+            "imagen": "img/P037.jpg"
         },
         {
             "id": "P038",
@@ -454,7 +454,7 @@
             "precio_mxn": "$30.00",
             "precio_eur": "€1.50",
             "precio_cad": "$2.40",
-            "imagen": "../img/P038.jpg"
+            "imagen": "img/P038.jpg"
         },
         {
             "id": "P039",
@@ -466,7 +466,7 @@
             "precio_mxn": "$60.00",
             "precio_eur": "€3.00",
             "precio_cad": "$4.80",
-            "imagen": "../img/P039.jpg"
+            "imagen": "img/P039.jpg"
         },
         {
             "id": "P040",
@@ -478,7 +478,7 @@
             "precio_mxn": "$70.00",
             "precio_eur": "€3.50",
             "precio_cad": "$5.60",
-            "imagen": "../img/P040.jpg"
+            "imagen": "img/P040.jpg"
         },
         {
             "id": "P041",
@@ -490,7 +490,7 @@
             "precio_mxn": "$20.00",
             "precio_eur": "€1.00",
             "precio_cad": "$1.60",
-            "imagen": "../img/P041.jpg"
+            "imagen": "img/P041.jpg"
         }
     ]
 }
