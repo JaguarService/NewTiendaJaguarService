@@ -1,5 +1,5 @@
 /*========================================MOSTRAR JSON========================================*/
-fetch('https://github.com/JaguarService/NewTiendaJaguarService/blob/f04b4f9710970b104a05d4acf71f5552c8762990/productos.json')
+fetch('js/productos.json')
   .then(response => response.json())
   .then(data => {
     const divProductos = document.querySelector(".contenedor_productos");
