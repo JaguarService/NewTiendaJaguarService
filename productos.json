@@ -10,7 +10,7 @@
             "precio_mxn": "$100.00",
             "precio_eur": "€5.00",
             "precio_cad": "$8.00",
-            "imagen": "https://github.com/JaguarService/NewTiendaJaguarService/blob/1771d1a00ab75bc7aa4148f8ca7b5f2e6c17f842/img/P001.jpg"
+            "imagen": "img/P001.jpg"
         },
         {
             "id": "P002",
@@ -22,7 +22,7 @@
             "precio_mxn": "$60.00",
             "precio_eur": "€3.00",
             "precio_cad": "$4.80",
-            "imagen": "../img/P002.jpg"
+            "imagen": "img/P002.jpg"
         },
         {
             "id": "P003",
