@@ -1,5 +1,5 @@
 /*========================================MOSTRAR JSON========================================*/
-fetch('productos.json')
+fetch('/js/productos.json')
   .then(response => response.json())
   .then(data => {
     const divProductos = document.querySelector(".contenedor_productos");
