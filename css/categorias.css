@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.categorias {
+    display: flex; /* Utiliza flexbox para alinear los botones */
+    flex-wrap: wrap; /* Permite que los botones se envuelvan */
+    gap: 3px; /* Espaciado entre los botones */
+    margin-bottom: 10px; /* Espacio debajo de las categorías */
+}
+.categoria-btn {
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.664);
+    transition: background-color 0.3s ease;
+    background: #21222d;
+    font-weight: bold;
+    border: 0;
+    border-radius: 10px;
+    color: white;
+    flex: 1; /* Permite que los botones se expandan para ocupar espacio */
+    padding: 10px; /* Añade espacio interno */
+    margin: 2px;
+    font-size: 15px; /* Ajusta el tamaño de la fuente */
+}
+#btnCarrito {
+    flex-basis: 100%; /* Hacer que el botón "Carrito" ocupe todo el ancho */
+    margin-top: 3px; /* Espacio arriba del botón "Carrito" */
+    
+}
+#encabezado_categoria{
+    color: #21222d;
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    margin: 5px;
+    text-decoration: underline;
+}
+
+
