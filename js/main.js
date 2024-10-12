@@ -125,7 +125,7 @@ document.addEventListener("DOMContentLoaded", () => {
               </div>
               <div class="producto_carrito_selector_cantidad">
                   <span class="material-symbols-outlined restar_cantidad">indeterminate_check_box</span>
-                  <input type="text" value="${cantidad}" class="cantidad_input">
+                  <input type="text" value="${cantidad}" class="cantidad_input" disabled>
                   <span class="material-symbols-outlined sumar_cantidad">add_box</span>
                   <span class="material-symbols-outlined borrar_cantidad">delete</span>
               </div>
